@@ -6,7 +6,7 @@ def minOperations(n):
     '''Calculates the fewest number of
     operations needed to result in exactly n H
     characters in this file.
-    Returns: 
+    Returns:
         Integer : if n is impossible to achieve, return 0
     '''
     pasted_chars = 1  # how many chars in the file
